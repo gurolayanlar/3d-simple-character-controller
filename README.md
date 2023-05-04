@@ -1,4 +1,4 @@
-# Unity - 3D Simple Caracter Controller
+# Unity - 3D Simple Character Controller
 
 Here I prepared a simple player movement controller for Unity that you can use in 3D projects. I have specified below the specific headers of the player controller.
 
